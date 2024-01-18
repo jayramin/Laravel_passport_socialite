@@ -1,0 +1,22 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+Client ID : 787435061760-kmua1er6g48s5quoscecvgp02qs7rbul.apps.googleusercontent.com
+
+Client secret : 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
+ 
+
+
+
+
+
+
+http://localhost:8000/login/google/callback

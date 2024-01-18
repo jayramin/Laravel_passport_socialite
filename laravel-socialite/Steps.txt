@@ -1,0 +1,45 @@
+﻿
+1. Create new laravel project
+2. Now we will create laravel authentication 
+3. Change login desing with extra button
+4. Install laravel socialite package
+5. We will login with google, facebook and github
+6. Put url to login buttons
+7. Put id and secret variables for each app
+8. Change redirect url for each app in services.php 
+9. Will do same for facebook and github
+10. Time to create app for google, facebook and github 
+11. First create app for google login
+12. Now create app for facebook login
+13. Create app for github login
+14. Now will add some extra fields to users table
+15. Run migrate
+16. Will create a method which will create new user or login existing user 
+17. Add user avatar beside of user name
+18. Now test with google signin
+19. Remove user form db and try login with facebook 20. Remove this user also and try with github login
+21. Now we can try login with any of this button
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://localhost:8000/login/google/callback
